@@ -1,14 +1,8 @@
 # ewallet
 
-A new Flutter project.
-
-![Alt text](https://github.com/MostafaAbdulaziz/E_Wallet/tree/master/e_wallet)
-
-
-
+Project UI : "https://drive.google.com/drive/folders/1PxzR13u8U4FBW_uMeuWi5-QaqME4Ez-i?usp=sharing"
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
